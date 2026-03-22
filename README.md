@@ -61,14 +61,9 @@ Curious | Creative | Open-source enthusiast
 
 ## 📚 Latest Projects
 
-- [Portfolio Website Live Demo](https://zewotr-demo.vercel.app/) &nbsp;⭐️⭐️⭐️  
+- [Portfolio Website Live Demo](https://zewotr.vercel.app/) &nbsp;⭐️⭐️⭐️  
   _Modern, responsive portfolio built with Next.js and Tailwind. Smooth animations and light/dark mode toggle!_
 
-- [Real-Time Chat App](https://github.com/Zewotr/realtime-chat)  
-  _Socket.io-based chat app featuring emoji reactions, live typing indicators, and mobile support._
-
-- [GitHub Actions Toolkit](https://github.com/Zewotr/github-actions-toolkit)  
-  _Reusable workflows and templates for fully automated CI/CD pipelines._
 
 > _For more, see my full [repositories](https://github.com/Zewotr?tab=repositories) list!_
 
