@@ -81,8 +81,7 @@ I build **modern, scalable web applications** with **React frontend** and **Djan
 ## 📚 Latest Projects
 
 - [Portfolio Website Live Demo](https://zewotr.vercel.app/) &nbsp;⭐️⭐️⭐️  
-  _Modern, responsive portfolio built with Next.js and Tailwind. Smooth animations and light/dark mode toggle!_
-
+  _Modern, responsive portfolio built with TypeScript, EmailJs and Tailwind. Smooth animations and light/dark mode toggle!
 
 > _For more, see my full [repositories](https://github.com/Zewotr?tab=repositories) list!_
 
@@ -111,6 +110,6 @@ I build **modern, scalable web applications** with **React frontend** and **Djan
 - Email: zewotrl@gmail.com  
 - Portfolio: [zewotr.vercel.app](https://zewotr.vercel.app)  
 - GitHub: [github.com/Zewotr](https://github.com/Zewotr)
-- LinkedIn: [linkedin.com/in/zewotr-lamesginew-7b991137a](www.linkedin.com/in/zewotr-lamesginew-7b991137a)
+- LinkedIn: [linkedin.com/in/zewotr-lamesginew-7b991137a](https://www.linkedin.com/in/zewotr-lamesginew-7b991137a)
 
 _Thank you for visiting my profile!_
