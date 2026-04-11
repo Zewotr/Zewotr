@@ -16,6 +16,7 @@ I build **modern, scalable web applications** with **React frontend** and **Djan
 
 ### 2️⃣ [WorldWise – Travel Tracker](https://github.com/Zewotr/worldwise) | [Live Demo](https://zworldwise.vercel.app/)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 - React app for tracking visited cities  
 - Client-side routing with React Router, state management with Context API  
 
@@ -35,10 +36,10 @@ I build **modern, scalable web applications** with **React frontend** and **Djan
 - Interactive browser game with DOM manipulation  
 - Includes score tracking and user feedback system  
 
-### 6️⃣ [Personal Portfolio](https://github.com/Zewotr/portfolio-v1) | [Live Demo](https://zewotr.vercel.app)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-- Portfolio website to showcase projects and technical skills  
-- Deployed on Vercel  
+### 6️⃣ [Omnifood ](https://github.com/Zewotr/omnifood) | [Live Demo](https://zomnifood.netlify.app)
+[HTML][CSS]
+  - Responsive AI-based meal delivery website
+  - Use simple and efficient coding style
 
 ---
 
