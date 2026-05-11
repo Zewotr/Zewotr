@@ -1,5 +1,5 @@
 # Hi, I'm Zewotr 👋
-**Full-Stack Developer (React & Django)** | Ethiopia  
+**Junior Full-Stack Developer (React & Django)** | Ethiopia  
 
 I build **modern, scalable web applications** with **React frontend** and **Django/PostgreSQL backend**. Passionate about clean code, interactive UIs, and AI-powered workflows.
 
@@ -102,7 +102,7 @@ I build **modern, scalable web applications** with **React frontend** and **Djan
 
 - 💡 I love learning new things and sharing knowledge  
 - 🤝 Open for collaboration on interesting projects  
-- 🌱 Currently learning: **NextJs, AI, and advanced DevOps**
+- 🌱 Currently learning: **NextJs, Advance features of Django, and advanced DevOps**
 
 ---
 
@@ -113,4 +113,4 @@ I build **modern, scalable web applications** with **React frontend** and **Djan
 - GitHub: [github.com/Zewotr](https://github.com/Zewotr)
 - LinkedIn: [linkedin.com/in/zewotr-lamesginew-7b991137a](https://www.linkedin.com/in/zewotr-lamesginew-7b991137a)
 
-_Thank you for visiting my profile!_
+Thank you for visiting my profile!_
