@@ -1,5 +1,5 @@
 # Hi, I'm Zewotr 👋
-## ** Full-Stack Developer (React & Django)** | Ethiopia  
+### ** Full-Stack Developer (React & Django)** | Ethiopia  
 
 I build **modern, scalable web applications** with **React frontend** and **Django/PostgreSQL backend**. Passionate about clean code, interactive UIs, and AI-powered workflows.
 
