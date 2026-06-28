@@ -91,21 +91,13 @@ currently living in **Ethiopia**| Land of Origins.
 - Dynamic pizza ordering interface  
 - Global state management using Redux, interactive cart system  
 
-### 5 [Weather Dashboard](https://github.com/Zewotr/weather)
-![HTML](https://img.shields.io/badge/HTML-052E2D?logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-09CC66?logo=css&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
-- Real-time weather dashboard using API data  
-- Asynchronous JavaScript, responsive design  
+### 5 [Digital Assignment log](https://github.com/Zewotr/Digital-Assignment-Log.git)
 
-### 6 [Number Guessing Game](https://github.com/Zewotr/js-Number-gussing-Game) | [Live Demo](https://ze-guess-num.netlify.app/)
-![HTML](https://img.shields.io/badge/HTML-052E2D?logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-09CC66?logo=css&logoColor=orange)
- ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black)
-- Interactive browser game with DOM manipulation  
-- Includes score tracking and user feedback system  
+- Developing a desktop-based assignment management system using JavaFX
+- Implementing role-based workflows for teachers and students
+- Managing assignment records and academic tracking features
 
-### 7 [Omnifood ](https://github.com/Zewotr/omnifood) | [Live Demo](https://zomnifood.netlify.app)
+### 6 [Omnifood ](https://github.com/Zewotr/omnifood) | [Live Demo](https://zomnifood.netlify.app)
 ![HTML](https://img.shields.io/badge/HTML-052E2D?logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-09CC66?logo=css&logoColor=orange)
   - Responsive AI-based meal delivery website
