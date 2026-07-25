@@ -1,7 +1,7 @@
 # Hi, I'm Zewotr 👋
-### ** Full-Stack Developer (React & Django)**  
+### ** Full-Stack Developer (React/Next.js & Django/Node.js)**  
 
-The software Engineer who build **modern, scalable web applications** with **React frontend** and **Django/PostgreSQL backend**. Work as Fullstack developer for international company.
+The software Engineer who build **modern, scalable web applications** with **React/Next.js frontend** and **Django/Node.js + mongoDB/PostgreSQL backend**. Work as Fullstack developer for international company.
 Passionate about clean code, interactive UIs, and AI-powered workflows.
 currently living in **Ethiopia**| Land of Origins.
 
