@@ -47,14 +47,20 @@ currently living in **Ethiopia**| Land of Origins.
 - Comfortable in **remote, collaborative environments**  
 - Passionate about modern web technologies and **AI-powered systems**
   
-- [Portfolio Website Live Demo](https://zewotr.vercel.app/) &nbsp;⭐️⭐️⭐️  
-  _Modern, responsive portfolio built with TypeScript, EmailJs and Tailwind. Smooth animations and light/dark mode toggle!
+- Portfolio Website Live [Click Here](https://zewotr.vercel.app/) &nbsp;⭐️⭐️⭐️  
+  Modern, responsive portfolio built with TypeScript, EmailJs and Tailwind. Smooth animations and light/dark mode toggle!
 
-> _For more, see my full [repositories](https://github.com/Zewotr?tab=repositories) list!_
+> For more, see my full [repositories](https://github.com/Zewotr?tab=repositories) list!_
 
 ---
 
 ## 📚 Latest Projects
+### 0 [YunMall - AI Powered E-Commerce Platform ](https://github.com/Zewotr/yunmall) | [Live Demo](https://yunmall.space-z.ai/)
+
+- A complete, production-style online shopping platform enhanced with Artificial Intelligence. Built with Next.js 16, TypeScript, Prisma, and the Z.ai SDK for LLM-powered search, personalized recommendations, and a 24/7 AI shopping assistant.
+- Semantic Product Search — Ask in natural language ("wireless headphones under ₹3000 for gym") and the LLM understands your intent, extracts filters (budget, category, use case), ranks matching products, and explains its choices.
+- Personalized Recommendations — AI picks products based on your browsing history and current product context (similar items).
+- Aria AI Shopping Assistant — A real-time chatbot (Socket.io + HTTP fallback) that recommends products, compares options, respects budgets, and renders product cards inline with markdown-formatted responses.
 
 ### 1 [LendSwift - Multi‑Step Loan Application Form](https://github.com/Zewotr/MULTI-STEP-LOAN-APPLICATION-FORM) | [Live Demo](https://lendswift.netlify.app/)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -66,14 +72,14 @@ currently living in **Ethiopia**| Land of Origins.
 - Production‑grade 8‑step loan application with real‑time validation, conditional fields, document upload (with compression), e‑signature capture, and encrypted auto‑save/resume  
 - Features: 50+ fields, 14 cross‑step dependencies, 27 Cypress E2E tests, WCAG 2.1 AA accessibility (Lighthouse 92), responsive design, pre‑approval summary (EMI, total cost)
 
-
-### 2  [Siraye – Task Management SaaS](https://github.com/Zewotr/Siraye) | [Featured Relised]
+### 2 [Medicare - ERP-style Clinic Management System](https://github.com/Zewotr/clinicMS) | [Live Demo](https://tenaye.space-z.ai/)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-- Full-stack SaaS platform to manage team projects and workflows  
-- Features: Google OAuth, REST APIs, responsive UI, Docker deployment  
+
+- A comprehensive, ERP-style Clinic Management System built with the latest modern web technologies. 
+- Role-Based authentication and data access is added
+- Designed to handle every aspect of clinic operations — patient records, appointments, staff scheduling, financial tracking, pharmacy inventory, laboratory tests, medical records, and analytics — all from a single, polished admin dashboard. 
 
 ### 3 [WorldWise – Travel Tracker](https://github.com/Zewotr/worldwise) | [Live Demo](https://zworldwise.vercel.app/)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
