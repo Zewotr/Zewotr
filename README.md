@@ -97,18 +97,6 @@ currently living in **Ethiopia**| Land of Origins.
 - Dynamic pizza ordering interface  
 - Global state management using Redux, interactive cart system  
 
-### 5 [Digital Assignment log](https://github.com/Zewotr/Digital-Assignment-Log.git)
-
-- Developing a desktop-based assignment management system using JavaFX
-- Implementing role-based workflows for teachers and students
-- Managing assignment records and academic tracking features
-
-### 6 [Omnifood ](https://github.com/Zewotr/omnifood) | [Live Demo](https://zomnifood.netlify.app)
-![HTML](https://img.shields.io/badge/HTML-052E2D?logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-09CC66?logo=css&logoColor=orange)
-  - Responsive AI-based meal delivery website
-  - Use simple and efficient coding style
-
 ---
 
 ## ✨ Fun Facts
