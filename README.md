@@ -1,9 +1,7 @@
 # Hi, I'm Zewotr 👋
-### ** Full-Stack Developer (React/Next.js & Django/Node.js)**  
+### ** Software Engineering student at IU **  
 
-The software Engineer who build **modern, scalable web applications** with **React/Next.js frontend** and **Django/Node.js + mongoDB/PostgreSQL backend**. Work as Fullstack developer for international company.
-Passionate about clean code, interactive UIs, and AI-powered workflows.
-currently living in **Ethiopia**| Land of Origins.
+I'm heading into my final year, where I focus on building full-stack applications end-to-end — from database schema to polished UI. Alongside my SWE degree, I'm also pursuing a BA in Management through a weekend program , which shapes how I think about engineering: not just writing code, but understanding the product and business context behind it.
 
 ---
 
