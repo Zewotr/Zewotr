@@ -1,7 +1,21 @@
-# Hi, I'm Zewotr 👋
-### ** Software Engineering student at IU **  
+<h1 align="center">Hi 👋, I'm Zewotr</h1>
+<h3 align="center"> Software Engineering student at IU and full-stack web developer </h3>
 
-I'm heading into my final year, where I focus on building full-stack applications end-to-end — from database schema to polished UI. Alongside my SWE degree, I'm also pursuing a BA in Management through a weekend program , which shapes how I think about engineering: not just writing code, but understanding the product and business context behind it.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3F3F3F&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+Node.js;Prisma+%7C+PostgreSQL+%7C+APIs;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+### 💫 About Me
+
+- 🔭 I’m currently working on: **Full-Stack Projects**
+- 🌱 I’m learning: **DevOps and ReactNative**
+- 👯 I’m looking to collaborate on: **Open source / APIs / Dev tools/ Fintech focused projects**
+- 🧠 I focus on: **Software architecture, System Design, and Real-world applications**
+- ⚡ Fun fact: I enjoy agentic engineering not vibe coding 💻
+
+  I'm heading into my final year, where I focus on building full-stack applications end-to-end — from database schema to polished UI/UX. Alongside my SWE degree, I'm also pursuing a BA in Management through a weekend program , which shapes how I think about beyond engineering: not just writing code, but understanding the product and business context behind it.
 
 ---
 
