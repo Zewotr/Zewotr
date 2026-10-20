@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zewotr</h1>
-<h3 align="center"> Software Engineering student at IU and full-stack web developer </h3>
+<h3 align="center"> Software Engineering student and full-stack web developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=3F3F3F&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+Node.js;Prisma+%7C+PostgreSQL+%7C+APIs;Open+Source+Enthusiast" alt="Typing SVG" />
