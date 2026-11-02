@@ -46,7 +46,6 @@ I'm currently learning DevOps and React Native while deepening my work in softwa
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Zewotr&theme=nord&hide_border=false&include_all_commits=false&count_private=true" alt="Zewotr GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=Zewotr&theme=nord&hide_border=false" alt="Zewotr GitHub contribution streak" />
 </p>
 
