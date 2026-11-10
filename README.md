@@ -51,7 +51,7 @@ I'm currently learning DevOps and React Native while deepening my work in softwa
 
 ## Contact
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zewotr-lamesginew) [linkedin.com/in/zewotr-lamesginew](https://www.linkedin.com/in/zewotr-lamesginew)
+- LinkedIn: [linkedin.com/in/zewotr-lamesginew](https://www.linkedin.com/in/zewotr-lamesginew)
 - Email: [zewotrl@gmail.com](mailto:zewotrl@gmail.com)
 - Portfolio: [zewotr.vercel.app](https://zewotr.vercel.app)
 - GitHub: [github.com/Zewotr](https://github.com/Zewotr)
