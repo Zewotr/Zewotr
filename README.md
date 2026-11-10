@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zewotr&label=Profile%20views&color=0e75b6&style=flat" alt="Zewotr" />
+</p>
+
 <h1 align="center">Hello, I'm Zewotr 👋</h1>
 <p align="center"><strong>Software Engineering Student · Full-Stack Developer</strong></p>
 <p align="center">
